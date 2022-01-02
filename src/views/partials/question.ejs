@@ -1,0 +1,11 @@
+<div class="col-5 mx-auto my-2">
+    <label class="form-label" for="question<%=subsection.id%>"><%=subsection.question%></label>
+    <select class="form-select form-select-sm mb-3" id="question<%=subsection.id%>" name="question<%=subsection.id%>">
+        <%let i =0;%>
+        <%subsection.answers.forEach(answer =>{%>
+
+            <option value="<%=subsection.values[i]%>"><%=answer%></option>
+            <%i++%>
+        <%})%>
+    </select>
+</div>

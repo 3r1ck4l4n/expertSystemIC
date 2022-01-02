@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "question": "Durante o después el confinamiento absoluto: ¿Se ha sentido triste?",
+    "answers":["No me siento triste.","Me siento triste gran parte del tiempo.","Me siento triste todo el tiempo.",
+      "Me siento tan triste o infeliz que no puedo soportarlo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 2,
+    "question": "Durante o después el confinamiento absoluto: ¿Se ha sentido pesimista?",
+    "answers":[" No estoy desalentado respecto del mi futuro.",
+      "Me siento más desalentado respecto de mi futuro que lo que solía estarlo.",
+      "No espero que las cosas funcionen para mi.",
+      "Siento que no hay esperanza para mi futuro y que sólo puede empeorar."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 3,
+    "question": "Durante o después el confinamiento absoluto: ¿Se ha sentido como un fracasado?",
+    "answers":["No me siento como un fracasado.",
+      "He fracasado más de lo que hubiera debido.",
+      "Cuando miro hacia atrás, veo muchos fracasos.",
+      "Siento que como persona soy un fracaso total."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 4,
+    "question": "Después el confinamiento absoluto: ¿Le causan placer las mismas actividades cono solían hacerlo previo al confinamiento?",
+    "answers":["Obtengo tanto placer como siempre por las cosas de las que disfruto.",
+      "No disfruto tanto de las cosas como solía hacerlo.",
+      "Obtengo muy poco placer de las cosas que solía disfrutar.",
+      "No puedo obtener ningún placer de las cosas de las que solía disfrutar."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 5,
+    "question": "Durante o después el confinamiento absoluto: ¿Ha tenido sentimientos de culpa?",
+    "answers":["No me siento particularmente culpable.",
+      "Me siento culpable respecto de varias cosas que he hecho o que debería haber hecho.",
+      "Me siento bastante culpable la mayor parte del tiempo.",
+      "Me siento culpable todo el tiempo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 6,
+    "question": "Durante o después el confinamiento absoluto: ¿Ha tenido sentimientos de castigo?",
+    "answers":["No siento que este siendo castigado.",
+      "Siento que tal vez pueda ser castigado.",
+      "Espero ser castigado.",
+      "Siento que estoy siendo castigado."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 7,
+    "question": "Durante o después el confinamiento absoluto: ¿Se ha sentido disconforme con usted mismo?",
+    "answers":["Siento acerca de mi lo mismo que siempre.",
+      "He perdido la confianza en mí mismo.",
+      "Estoy decepcionado conmigo mismo.",
+      "No me gusto a mí mismo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 8,
+    "question": "Durante o después el confinamiento absoluto: ¿Siente que ha sido más autocrítico?",
+    "answers":["No me critico ni me culpo más de lo habitual.",
+      "Estoy más crítico conmigo mismo de lo que solía estarlo.",
+      "Me critico a mí mismo por todos mis errores.",
+      "Me culpo a mí mismo por todo lo malo que sucede."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 9,
+    "question": "Durante o después el confinamiento absoluto: ¿Ha tenido pensamientos o deseos suicidas?",
+    "answers":["No tengo ningún pensamiento de matarme.",
+      "He tenido pensamientos de matarme, pero no lo haría.",
+      "Querría matarme.",
+      "Me mataría si tuviera la oportunidad de hacerlo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 10,
+    "question": "Durante o después el confinamiento absoluto: ¿Que tan habitual es su llanto?",
+    "answers":["No lloro más de lo que solía hacerlo.",
+      "Lloro más de lo que solía hacerlo.",
+      "Lloro por cualquier pequeñez.",
+      "Siento ganas de llorar pero no puedo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 11,
+    "question": "Durante o después el confinamiento absoluto: ¿Se ha sentido demasiado tenso o inquieto?",
+    "answers":["No estoy más inquieto o tenso que lo habitual.",
+      "Me siento más inquieto o tenso que lo habitual.",
+      "Estoy tan inquieto o agitado que me es difícil quedarme quieto.",
+      "Estoy tan inquieto o agitado que tengo que estar siempre en movimiento o haciendo algo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 12,
+    "question": "Durante o después el confinamiento absoluto: ¿Considera que ha perdido el interés en actividades o personas?",
+    "answers":["No he perdido el interés en otras actividades o personas.",
+      "Estoy menos interesado que antes en otras personas o cosas.",
+      "He perdido casi todo el interés en otras personas o cosas.",
+      "Me es difícil interesarme por algo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 13,
+    "question": "Durante o después el confinamiento absoluto: ¿Cómo considera que ha cambiado su proceso de toma de decisiones?",
+    "answers":["Tomo mis propias decisiones tan bien como siempre.",
+      "Me resulta más difícil que de costumbre tomar decisiones.",
+      "Encuentro mucha más dificultad que antes para tomar decisiones.",
+      "Tengo problemas para tomar cualquier decisión."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 14,
+    "question": "Durante o después el confinamiento absoluto: ¿Cómo se percibe a usted mismo?",
+    "answers":["No siento que yo no sea valioso",
+      "No me considero a mi mismo tan valioso y útil como solía considerarme",
+      "Me siento menos valioso cuando me comparo con otros.",
+      "Siento que no valgo nada"],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 15,
+    "question": "Durante o después el confinamiento absoluto: ¿Qué tanta energía considera que tiene para realizar sus actividades?",
+    "answers":["Tengo tanta energía como siempre.",
+      "Tengo menos energía que la que solía tener.",
+      "No tengo suficiente energía para hacer demasiado",
+      "No tengo energía suficiente para hacer nada."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 16,
+    "question": "Durante o después el confinamiento absoluto: ¿Cómo percibe sus hábitos de sueño?",
+    "answers":["No he experimentado ningún cambio en mis hábitos de sueño.",
+      "Duermo un poco más que lo habitual.",
+      "Duermo un poco menos que lo habitual.",
+      "Duermo mucho más que lo habitual.",
+      "Duermo mucho menos que lo habitual.",
+      "Duermo la mayor parte del día.",
+      "Me despierto 1-2 horas más temprano y no puedo volver a dormirme."],
+    "values": [-0.25,0.30,0.30,0.60,0.60,0.90,0.90]
+  },
+  {
+    "id": 17,
+    "question": "Durante o después el confinamiento absoluto: ¿Se ha sentido irritable?",
+    "answers":[" No estoy tan irritable que lo habitual.",
+      "Estoy más irritable que lo habitual.",
+      "Estoy mucho más irritable que lo habitual.",
+      "Estoy irritable todo el tiempo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 18,
+    "question": "Durante o después el confinamiento absoluto: ¿Cómo percibe sus hábitos de sueño?",
+    "answers":["No he experimentado ningún cambio en mi apetito.",
+      "Mi apetito es un poco menor que lo habitual.",
+      "Mi apetito es un poco mayor que lo habitual.",
+      "Mi apetito es mucho menor que antes.",
+      "Mi apetito es mucho mayor que lo habitual",
+      "No tengo apetito en absoluto.",
+      "Quiero comer todo el día."],
+    "values": [-0.25,0.30,0.30,0.60,0.60,0.90,0.90]
+  },
+  {
+    "id": 19,
+    "question": "Durante o después el confinamiento absoluto: ¿Siente que se le dificulta concentrarse?",
+    "answers":["Puedo concentrarme tan bien como siempre.",
+      "No puedo concentrarme tan bien como habitualmente",
+      "Me es difícil mantener la mente en algo por mucho tiempo.",
+      "Encuentro que no puedo concentrarme en nada."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 20,
+    "question": "Durante o después el confinamiento absoluto: ¿Se ha sentido más fatigado o cansado?",
+    "answers":["No estoy más cansado o fatigado que lo habitual.",
+      "Me fatigo o me canso más fácilmente que lo habitual.",
+      "Estoy demasiado fatigado o cansado para hacer muchas de las cosas que solía hacer.",
+      "Estoy demasiado fatigado o cansado para hacer la mayoría de las cosas que solía hacer"],
+    "values": [-0.25, 0.33,0.66,0.99]
+  },
+  {
+    "id": 21,
+    "question": "Durante o después el confinamiento absoluto: ¿Ha perdido total o parcialmente el interés en el sexo?",
+    "answers":["No he notado ningún cambio reciente en mi interés por el sexo.",
+      "Estoy menos interesado en el sexo de lo que solía estarlo.",
+      "Estoy mucho menos interesado en el sexo.",
+      "He perdido completamente el interés en el sexo."],
+    "values": [-0.25, 0.33,0.66,0.99]
+  }
+]
